@@ -1,7 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ['imageengine.victorinox.com'],
+        remotePatterns: [
+            {
+                protocol: 'https',
+                hostname: 'imageengine.victorinox.com',
+                pathname: '**',
+            }
+        ]
     },
 }
 
