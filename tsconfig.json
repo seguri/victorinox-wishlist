@@ -19,6 +19,9 @@
       }
     ],
     "paths": {
+      "@/organisms/*": ["./app/components/organisms/*"],
+      "@/molecules/*": ["./app/components/molecules/*"],
+      "@/components/*": ["./app/components/*"],
       "@/*": ["./*"]
     }
   },
