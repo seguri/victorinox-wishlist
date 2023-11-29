@@ -19,10 +19,24 @@ export default function Home() {
         />
 
         <Card
-          title="Coltelli da tavola"
+          title="Coltelli da tavola x6"
           price="35.00"
           imageUrl="https://imageengine.victorinox.com/mediahub/31352/560Wx490H/CUT_6_7833_6__P1.jpg"
           detailUrl="https://www.victorinox.com/ch/it/Prodotti/Coltelleria/Coltelli-per-verdure/Set-di-coltelli-da-tavola-e-da-pomodoro-Swiss-Classic-6-pezzi/p/6.7833.6"
+        />
+
+        <Card
+          title="Coltello sfiletto pesce"
+          price="27.00"
+          imageUrl="https://imageengine.victorinox.com/mediahub/145823/560Wx490H/SAK_6-8713-16_S1.jpg"
+          detailUrl="https://www.victorinox.com/ch/it/Prodotti/Coltelleria/Coltelli-da-chef/Coltello-per-sfilettare-Swiss-Classic/p/6.8713.16B"
+        />
+
+        <Card
+          title="Coltello sfiletto carne"
+          price="25.00"
+          imageUrl="https://imageengine.victorinox.com/mediahub/145820/560Wx490H/CUT_6-8103-18_S1.jpg"
+          detailUrl="https://www.victorinox.com/ch/it/Prodotti/Coltelleria/Coltelli-da-chef/Coltello-da-cucina-Swiss-Classic/p/6.8103.18B"
         />
 
         <Card
