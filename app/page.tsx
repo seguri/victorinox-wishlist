@@ -26,20 +26,6 @@ export default function Home() {
         />
 
         <Card
-          title="Ceppo Swiss Classic"
-          price="229.00"
-          imageUrl="https://imageengine.victorinox.com/mediahub/145806/560Wx490H/CUT_6-7193-9_S2.jpg"
-          detailUrl="https://www.victorinox.com/ch/it/Prodotti/Coltelleria/Set-e-ceppi-di-coltelli/Ceppo-coltelli-Swiss-Classic-9-pezzi/p/6.7193.9"
-        />
-
-        <Card
-          title="Ceppo Grand Maître"
-          price="649.00"
-          imageUrl="https://imageengine.victorinox.com/mediahub/31888/560Wx490H/CUT_7_7243_6__S1.jpg"
-          detailUrl="https://www.victorinox.com/ch/it/Prodotti/Coltelleria/Set-e-ceppi-di-coltelli/Ceppo-di-coltelli-Grand-Ma%C3%AEtre-6-pezzi/p/7.7243.6"
-        />
-
-        <Card
           title="Affilacoltelli"
           price="27.00"
           imageUrl="https://imageengine.victorinox.com/mediahub/31957/560Wx490H/CUT_7_8715__S1.jpg"
